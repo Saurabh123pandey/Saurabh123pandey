@@ -1,57 +1,94 @@
-<!-- ===== PROFESSIONAL PROFILE HEADER (INLINE SVG) ===== -->
-<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile Header">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="45%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#0f172a"/>
-    </linearGradient>
+<!-- ===== GITHUB-STATS STYLE PROFILE HEADER ===== -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="360" viewBox="0 0 1200 360">
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#020617"/>
+<stop offset="50%" stop-color="#111827"/>
+<stop offset="100%" stop-color="#0f172a"/>
+</linearGradient>
 
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2563eb"/>
-      <stop offset="100%" stop-color="#38bdf8"/>
-    </linearGradient>
-  </defs>
+<linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#2563eb"/>
+<stop offset="100%" stop-color="#38bdf8"/>
+</linearGradient>
+</defs>
 
-  <!-- Background -->
-  <rect width="1200" height="260" fill="url(#bgGrad)"/>
+<!-- Background -->
+<rect width="1200" height="360" fill="url(#bg)"/>
 
-  <!-- Accent line -->
-  <rect x="300" y="150" width="600" height="2" fill="url(#accent)"/>
+<!-- Name -->
+<text x="600" y="85" text-anchor="middle"
+fill="#ffffff" font-size="46"
+font-family="Segoe UI, Roboto, Arial, sans-serif"
+font-weight="700">
+Saurabh Pandey
+</text>
 
-  <!-- Name -->
-  <text x="600" y="105"
-        text-anchor="middle"
-        fill="#ffffff"
-        font-size="46"
-        font-family="Segoe UI, Roboto, Arial, sans-serif"
-        font-weight="700"
-        letter-spacing="1">
-    Saurabh Pandey
-  </text>
+<!-- Role -->
+<text x="600" y="125" text-anchor="middle"
+fill="#c7d2fe" font-size="20"
+font-family="Segoe UI, Roboto, Arial, sans-serif">
+AI & Machine Learning Enthusiast · Data Science Practitioner
+</text>
 
-  <!-- Role -->
-  <text x="600" y="140"
-        text-anchor="middle"
-        fill="#c7d2fe"
-        font-size="20"
-        font-family="Segoe UI, Roboto, Arial, sans-serif">
-    AI & Machine Learning Enthusiast · Data Science Practitioner
-  </text>
+<!-- Divider -->
+<rect x="350" y="145" width="500" height="2" fill="url(#accent)"/>
 
-  <!-- Keywords -->
-  <text x="600" y="175"
-        text-anchor="middle"
-        fill="#94a3b8"
-        font-size="15"
-        font-family="Segoe UI, Roboto, Arial, sans-serif">
-    Python · Machine Learning · Data Analytics · Real-World Projects
-  </text>
+<!-- ===== Stats Cards ===== -->
+<!-- Card 1 -->
+<rect x="220" y="175" rx="10" ry="10" width="220" height="90" fill="#020617" stroke="#1e293b"/>
+<text x="330" y="215" text-anchor="middle"
+fill="#38bdf8" font-size="26"
+font-family="Segoe UI, Roboto, Arial, sans-serif"
+font-weight="700">
+ML & DS
+</text>
+<text x="330" y="245" text-anchor="middle"
+fill="#94a3b8" font-size="14"
+font-family="Segoe UI, Roboto, Arial, sans-serif">
+Core Focus
+</text>
+
+<!-- Card 2 -->
+<rect x="490" y="175" rx="10" ry="10" width="220" height="90" fill="#020617" stroke="#1e293b"/>
+<text x="600" y="215" text-anchor="middle"
+fill="#38bdf8" font-size="26"
+font-family="Segoe UI, Roboto, Arial, sans-serif"
+font-weight="700">
+Python
+</text>
+<text x="600" y="245" text-anchor="middle"
+fill="#94a3b8" font-size="14"
+font-family="Segoe UI, Roboto, Arial, sans-serif">
+Primary Language
+</text>
+
+<!-- Card 3 -->
+<rect x="760" y="175" rx="10" ry="10" width="220" height="90" fill="#020617" stroke="#1e293b"/>
+<text x="870" y="215" text-anchor="middle"
+fill="#38bdf8" font-size="26"
+font-family="Segoe UI, Roboto, Arial, sans-serif"
+font-weight="700">
+Projects
+</text>
+<text x="870" y="245" text-anchor="middle"
+fill="#94a3b8" font-size="14"
+font-family="Segoe UI, Roboto, Arial, sans-serif">
+Hands-on Learning
+</text>
+
+<!-- Footer line -->
+<text x="600" y="305" text-anchor="middle"
+fill="#64748b" font-size="14"
+font-family="Segoe UI, Roboto, Arial, sans-serif">
+Building practical ML solutions · Clean code · Continuous improvement
+</text>
 </svg>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saurabh123pandey&label=Profile%20Views&color=2563eb&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Saurabh123pandey&label=Profile%20Views&color=2563eb&style=flat"/>
 </p>
+
 
 ---
 
