@@ -1,20 +1,9 @@
-<!-- ======= PROFESSIONAL BANNER (100% WORKING) ======= -->
+<!-- ======= PROFILE BANNER ======= -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:020617&height=230&section=header&text=Saurabh%20Pandey&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=18"
-    alt="Saurabh Pandey Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:020617&height=220&section=header&text=Saurabh%20Pandey&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=18" />
 </p>
 
-<h3 align="center">
-AI & Machine Learning Enthusiast • Data Science Practitioner
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Active-success" />
-  <img src="https://img.shields.io/badge/Data%20Science-Practical-informational" />
-</p>
+<h3 align="center">AI & Machine Learning Enthusiast | Data Science Practitioner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saurabh123pandey&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -24,64 +13,69 @@ AI & Machine Learning Enthusiast • Data Science Practitioner
 
 ## 👋 About Me
 
-I am an **AI and Machine Learning enthusiast** with a strong foundation in **Data Science and Python programming**.  
-My focus is on building **practical, real-world machine learning solutions** rather than theoretical demos.
+I am an AI and Machine Learning enthusiast with strong hands-on experience in Python and Data Science.  
+I focus on building practical machine learning solutions and solving real-world problems using data-driven approaches.
 
-I enjoy working on problems involving **prediction, classification, optimization, and analytics**, and I continuously improve my skills through hands-on projects and structured learning.
+I am continuously improving my skills through projects, experimentation, and structured learning.
 
 ---
 
 ## 🧠 Technical Skills
 
-### Programming Languages
-- **Python**
-- **Java**
-- **C / C++**
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-### Data Science & Machine Learning
-- Pandas, NumPy
-- Scikit-learn
-- TensorFlow
-- Regression & Classification Models
-- Model Evaluation (R², MSE, Accuracy)
+### 📊 Data Science & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- HTML & CSS (Basics)
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
-## 📌 Selected Projects
+## 📌 Projects
 
 ### 🔹 Loan Prediction System
-Machine learning model to predict loan approval using customer data and classification techniques.  
-**Tech Stack:** Python, Pandas, Scikit-learn  
+Machine learning model to predict loan approval using classification techniques.  
 🔗 https://github.com/Saurabh123pandey/Loan-Prediction
 
 ---
 
 ### 🔹 California Housing Price Prediction
-Random Forest regression model to predict housing prices with proper evaluation metrics.  
-**Tech Stack:** Python, Scikit-learn, Matplotlib  
+Random Forest regression model for housing price prediction with proper evaluation.  
 🔗 https://github.com/Saurabh123pandey/Machine-Learning-Model-to-Predict-Housing-Prices-using-Random-Forest
 
 ---
 
 ### 🔹 Transit Fare Optimization (AI Project)
-AI-based system to analyze passenger flow data and recommend optimized fare strategies.  
-**Domain:** Data Analytics, Machine Learning
+AI-based system to analyze passenger flow data and recommend optimized fare strategies.
 
 ---
 
 ## 🎓 Education & Training
 
-- **Master of Computer Applications (MCA)** – Pursuing  
-- **Data Science, Machine Learning, Deep Learning & NLP Bootcamp (99+ Hours)**
+- Master of Computer Applications (MCA) – Pursuing  
+- Data Science, Machine Learning, Deep Learning & NLP Bootcamp (99+ Hours)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saurabh123pandey&show_icons=true&theme=github_dark&hide_border=true" />
@@ -97,7 +91,7 @@ AI-based system to analyze passenger flow data and recommend optimized fare stra
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 - GitHub: https://github.com/Saurabh123pandey  
 - LinkedIn: https://www.linkedin.com/  
@@ -105,5 +99,4 @@ AI-based system to analyze passenger flow data and recommend optimized fare stra
 
 ---
 
-> **Focused on continuous learning and building reliable AI-powered solutions.**
-
+> Focused on continuous learning and building reliable AI-powered solutions.
