@@ -1,13 +1,36 @@
-<!-- ======= PROFILE BANNER ======= -->
+<!-- ===== INLINE SVG BANNER (100% WORKING) ===== -->
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#grad)"/>
+  <text x="600" y="95" text-anchor="middle" fill="#ffffff" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    Saurabh Pandey
+  </text>
+  <text x="600" y="135" text-anchor="middle" fill="#cbd5f5" font-size="20" font-family="Arial, Helvetica, sans-serif">
+    AI & Machine Learning Enthusiast | Data Science Practitioner
+  </text>
+</svg>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:020617&height=220&section=header&text=Saurabh%20Pandey&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=18" />
+  <b>AI • Machine Learning • Data Science • Python</b>
 </p>
 
-<h3 align="center">AI & Machine Learning Enthusiast | Data Science Practitioner</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Active-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Science-Practical-blue?style=flat-square"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saurabh123pandey&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Saurabh123pandey&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
+
+---
 
 ---
 
