@@ -1,38 +1,51 @@
-<!-- ====== TOP PROFILE BANNER (INLINE SVG - 100% WORKING) ====== -->
-<svg width="100%" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+<!-- ===== PROFESSIONAL PROFILE HEADER (INLINE SVG) ===== -->
+<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile Header">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#020617"/>
-      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="45%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="240" fill="url(#bg)"/>
+  <!-- Background -->
+  <rect width="1200" height="260" fill="url(#bgGrad)"/>
 
-  <text x="600" y="95"
+  <!-- Accent line -->
+  <rect x="300" y="150" width="600" height="2" fill="url(#accent)"/>
+
+  <!-- Name -->
+  <text x="600" y="105"
         text-anchor="middle"
         fill="#ffffff"
-        font-size="44"
-        font-family="Segoe UI, Arial, sans-serif"
-        font-weight="700">
+        font-size="46"
+        font-family="Segoe UI, Roboto, Arial, sans-serif"
+        font-weight="700"
+        letter-spacing="1">
     Saurabh Pandey
   </text>
 
+  <!-- Role -->
   <text x="600" y="140"
         text-anchor="middle"
         fill="#c7d2fe"
         font-size="20"
-        font-family="Segoe UI, Arial, sans-serif">
-    AI & Machine Learning Enthusiast • Data Science Practitioner
+        font-family="Segoe UI, Roboto, Arial, sans-serif">
+    AI & Machine Learning Enthusiast · Data Science Practitioner
   </text>
 
+  <!-- Keywords -->
   <text x="600" y="175"
         text-anchor="middle"
         fill="#94a3b8"
         font-size="15"
-        font-family="Segoe UI, Arial, sans-serif">
-    Python • Machine Learning • Data Science • AI Projects
+        font-family="Segoe UI, Roboto, Arial, sans-serif">
+    Python · Machine Learning · Data Analytics · Real-World Projects
   </text>
 </svg>
 
@@ -40,6 +53,7 @@
   <img src="https://komarev.com/ghpvc/?username=Saurabh123pandey&label=Profile%20Views&color=2563eb&style=flat" />
 </p>
 
+---
 
 ## 👋 About Me
 
