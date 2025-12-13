@@ -1,38 +1,45 @@
-<!-- ===== INLINE SVG BANNER (100% WORKING) ===== -->
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+<!-- ====== TOP PROFILE BANNER (INLINE SVG - 100% WORKING) ====== -->
+<svg width="100%" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0f172a"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
       <stop offset="50%" stop-color="#1e293b"/>
-      <stop offset="100%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0f172a"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="220" fill="url(#grad)"/>
-  <text x="600" y="95" text-anchor="middle" fill="#ffffff" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+
+  <text x="600" y="95"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-size="44"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-weight="700">
     Saurabh Pandey
   </text>
-  <text x="600" y="135" text-anchor="middle" fill="#cbd5f5" font-size="20" font-family="Arial, Helvetica, sans-serif">
-    AI & Machine Learning Enthusiast | Data Science Practitioner
+
+  <text x="600" y="140"
+        text-anchor="middle"
+        fill="#c7d2fe"
+        font-size="20"
+        font-family="Segoe UI, Arial, sans-serif">
+    AI & Machine Learning Enthusiast • Data Science Practitioner
+  </text>
+
+  <text x="600" y="175"
+        text-anchor="middle"
+        fill="#94a3b8"
+        font-size="15"
+        font-family="Segoe UI, Arial, sans-serif">
+    Python • Machine Learning • Data Science • AI Projects
   </text>
 </svg>
 
 <p align="center">
-  <b>AI • Machine Learning • Data Science • Python</b>
+  <img src="https://komarev.com/ghpvc/?username=Saurabh123pandey&label=Profile%20Views&color=2563eb&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Active-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Science-Practical-blue?style=flat-square"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saurabh123pandey&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
-
----
-
----
 
 ## 👋 About Me
 
