@@ -29,7 +29,7 @@ stroke-dasharray="12 10" filter="url(#glow)">
 <text x="600" y="90" text-anchor="middle"
 fill="#ffffff" font-size="50" font-weight="800"
 font-family="Segoe UI, Roboto, Arial">
-Saurabh Pandey
+SAURABH PANDEY
 </text>
 
 <text x="600" y="130" text-anchor="middle"
